@@ -52,4 +52,9 @@ public class PhilosopherExeption extends Exception {
 		// TODO Auto-generated constructor stub
 	}
 
+	public void getMessage(String string) {
+		System.out.println(string);
+		
+	}
+
 }

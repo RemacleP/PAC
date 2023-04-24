@@ -8,11 +8,8 @@ public class DiningPhilosophers {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) throws PhilosopherExeption {
-
-		Application.starting();
-
-
+	public static void main(String[] args){
+			Application.starting();
 	}
 
 }
